@@ -1,0 +1,8 @@
+Going through the @pluralsight video on @elixirlang https://app.pluralsight.com/library/courses/elixir-getting-started
+Learning some @elixirlang with an app that sends scheduled tweets.
+I don't tweet much.
+This is a scheduled random tweet using @elixirlang and ExTwitter (https://github.com/parroty/extwitter).
+This is just a random line in a text file.
+Christmas was lovely.
+This is another random line in a text file.
+Messing with supervision in @elixirlang.
