@@ -10,7 +10,7 @@ defmodule PluralsightTweet.Scheduler do
   defp get_tweet_fn(filepath) do
     fn -> 
       PluralsightTweet.FileReader.get_random_tweet(filepath) 
-      |> PluralsightTweet.TweetServer.tweet
+      |> PluralsightTweet.TweetServer.tweet()
     end
   end
 end
